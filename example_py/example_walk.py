@@ -4,7 +4,7 @@ import sys
 import time
 import math
 
-sys.path.append('../lib/python/amd64')
+sys.path.append('UNITREE_LEGGED_SDK/lib/python/amd64')
 import robot_interface as sdk
 
 
